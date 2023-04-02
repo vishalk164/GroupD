@@ -21,3 +21,8 @@ Examples:
 
 Input: "India"
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Rushikesh And Shrikrushna ==> : Ex3. find missing number in the array you are given an integer array containing 1 to n but one of the number from 1 to n in the array missing . You need to provide optimum solution to find the missing number. Number cannot be repeated in the array.
+int[] arr1={7,5,6,1,4,2};
+Missing number : 3
+int[] arr2={5,3,1,2};
+Missing number : 4
