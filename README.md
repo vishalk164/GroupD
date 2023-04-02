@@ -14,8 +14,12 @@ examples:
 Input: "I Love India Output: "I Love India"
 
 -----------------------------------------------------------------------------------------------------------------
-Create First.java
-Sarvesh kulkarni & Vaibhav Markad ==> : Ex1. Write program to find the occurances of characters in a String.
+Sarvesh kulkarni & Vaibhav Markad ==> :
+
+
+Ex1. Write program to find the occurances of characters in a String.
+
+
 Note: Input will be any string, above just an example so donot hardcore any logic.
 Examples:
 
