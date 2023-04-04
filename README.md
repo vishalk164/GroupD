@@ -11,7 +11,8 @@ Note: Do not use any inbuilt java function like trim() etc.
 
 examples:
 
-Input: "I Love India Output: "I Love India"
+Input: "I Love India 
+Output: "I Love India"
 
 -----------------------------------------------------------------------------------------------------------------
 Sarvesh kulkarni & Vaibhav Markad ==> :
